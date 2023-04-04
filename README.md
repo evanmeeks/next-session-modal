@@ -1,5 +1,9 @@
-## NextAuth Session Modal Timeout
+### NextAuth Session Modal Timeout
 
+<video autoplay loop muted playsinline  src="https://user-images.githubusercontent.com/18267052/229717250-4dc95098-8b6b-4154-9e00-a51cf2cd2480.mp4" type="video/mp4"> 
+</video>
+ <br/>
+ 
 * Tailwind Responsive Utility Class Design  
 With responsive utility classes, you can ensure your logout countdown session timer modal adapts smoothly to different screen sizes.
 
@@ -14,27 +18,8 @@ Another functional highlight of the logout countdown session timer modal is the 
 
 * Secure Logout Option
 To further enhance security, the logout countdown session timer modal provides users with a clear and straightforward logout option. By clicking the "Logout" button, users can end their session and ensure that their account is secure, especially when using shared devices.
- <source>
 
-https://user-images.githubusercontent.com/18267052/229717250-4dc95098-8b6b-4154-9e00-a51cf2cd2480.mp4
-</source>
- 
-<p align="center">
-
-  > The example repository is maintained from a [monorepo](https://github.com/nextauthjs/next-auth/tree/main/apps/examples/nextjs). Pull Requests should be opened against [`nextauthjs/next-auth`](https://github.com/nextauthjs/next-auth).
-
-<p align="center">
    <br/>
-   <a href="https://authjs.dev" target="_blank">
-   <img height="64" src="https://authjs.dev/img/logo/logo-sm.png" />
-   </a>
-   <a href="https://nextjs.org" target="_blank">
-   <img height="64" src="https://nextjs.org/static/favicon/android-chrome-192x192.png" />
-   </a>
-   <h3 align="center"><b>NextAuth.js</b> - Example App</h3>
-   <p align="center">
-   Open Source. Full Stack. Own Your Data.
-   </p>
    <p align="center" style="align: center;">
       <a href="https://npm.im/next-auth">
         <img alt="npm" src="https://img.shields.io/npm/v/next-auth?color=green&label=next-auth&style=flat-square">
@@ -48,11 +33,26 @@ https://user-images.githubusercontent.com/18267052/229717250-4dc95098-8b6b-4154-
       <a href="https://npm.im/next-auth">
         <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square" alt="TypeScript" />
       </a>
+      <p align="center">
+   <br/>
+   <a href="https://authjs.dev" target="_blank">
+   <img height="64" src="https://authjs.dev/img/logo/logo-sm.png" />
+   </a>
+   <a href="https://nextjs.org" target="_blank">
+   <img height="64" src="https://nextjs.org/static/favicon/android-chrome-192x192.png" />
+   </a>
+   <h3 align="center"><b>NextAuth.js</b> - Example App</h3>
+   <p align="center">
+   Open Source. Full Stack. Own Your Data.
+  
    </p>
-</p>
+ 
 
+
+  > The example repository is maintained from a [monorepo](https://github.com/nextauthjs/next-auth/tree/main/apps/examples/nextjs). Pull Requests should be opened against [`nextauthjs/next-auth`](https://github.com/nextauthjs/next-auth).
 
 ## Overview
+
 
 NextAuth.js is a complete open-source authentication solution.
 
